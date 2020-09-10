@@ -1,135 +1,38 @@
-<annotation>
-	<folder>VOC2005</folder>
-	<filename>1040.jpg</filename>
+<annotation verified="yes">
+	<folder>test01</folder>
+	<filename>427.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test01\427.jpg</path>
 	<source>
-		<database>The VOC2005 Database</database>
-		<annotation>PASCAL VOC2005</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1180</width>
-		<height>664</height>
+		<width>600</width>
+		<height>450</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>0</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>699</xmin>
-			<ymin>124</ymin>
-			<xmax>787</xmax>
-			<ymax>345</ymax>
+			<xmin>328</xmin>
+			<ymin>95</ymin>
+			<xmax>534</xmax>
+			<ymax>223</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>0</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>447</xmin>
-			<ymin>241</ymin>
-			<xmax>571</xmax>
-			<ymax>435</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>162</xmin>
-			<ymin>270</ymin>
-			<xmax>245</xmax>
-			<ymax>409</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>245</xmin>
-			<ymin>288</ymin>
-			<xmax>309</xmax>
-			<ymax>380</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>290</xmin>
-			<ymin>211</ymin>
-			<xmax>370</xmax>
-			<ymax>365</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>362</xmin>
-			<ymin>206</ymin>
-			<xmax>432</xmax>
-			<ymax>342</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>421</xmin>
-			<ymin>184</ymin>
-			<xmax>489</xmax>
-			<ymax>311</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>484</xmin>
-			<ymin>165</ymin>
-			<xmax>538</xmax>
-			<ymax>245</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>555</xmin>
-			<ymin>157</ymin>
-			<xmax>604</xmax>
-			<ymax>272</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>595</xmin>
-			<ymin>182</ymin>
-			<xmax>654</xmax>
-			<ymax>330</ymax>
+			<xmin>51</xmin>
+			<ymin>23</ymin>
+			<xmax>214</xmax>
+			<ymax>291</ymax>
 		</bndbox>
 	</object>
 </annotation>

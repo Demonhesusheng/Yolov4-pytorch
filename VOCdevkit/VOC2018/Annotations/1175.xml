@@ -1,123 +1,146 @@
-<annotation>
-	<folder>VOC2005</folder>
-	<filename>1175.jpg</filename>
+<annotation verified="yes">
+	<folder>test01</folder>
+	<filename>99.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test01\99.jpg</path>
 	<source>
-		<database>The VOC2005 Database</database>
-		<annotation>PASCAL VOC2005</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1180</width>
-		<height>664</height>
+		<width>980</width>
+		<height>650</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>0</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>456</xmin>
-			<ymin>242</ymin>
-			<xmax>574</xmax>
-			<ymax>423</ymax>
+			<xmin>439</xmin>
+			<ymin>94</ymin>
+			<xmax>619</xmax>
+			<ymax>582</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>0</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>536</xmin>
-			<ymin>87</ymin>
-			<xmax>593</xmax>
-			<ymax>270</ymax>
+			<xmin>588</xmin>
+			<ymin>251</ymin>
+			<xmax>816</xmax>
+			<ymax>613</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>225</xmin>
-			<ymin>241</ymin>
-			<xmax>285</xmax>
-			<ymax>368</ymax>
+			<xmin>648</xmin>
+			<ymin>116</ymin>
+			<xmax>802</xmax>
+			<ymax>380</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>278</xmin>
-			<ymin>212</ymin>
-			<xmax>363</xmax>
-			<ymax>355</ymax>
+			<xmin>820</xmin>
+			<ymin>135</ymin>
+			<xmax>955</xmax>
+			<ymax>539</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>356</xmin>
-			<ymin>205</ymin>
-			<xmax>423</xmax>
-			<ymax>340</ymax>
+			<xmin>919</xmin>
+			<ymin>140</ymin>
+			<xmax>980</xmax>
+			<ymax>382</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>420</xmin>
-			<ymin>186</ymin>
-			<xmax>477</xmax>
-			<ymax>309</ymax>
+			<xmin>259</xmin>
+			<ymin>122</ymin>
+			<xmax>409</xmax>
+			<ymax>577</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>495</xmin>
-			<ymin>161</ymin>
-			<xmax>535</xmax>
-			<ymax>237</ymax>
+			<xmin>159</xmin>
+			<ymin>122</ymin>
+			<xmax>295</xmax>
+			<ymax>482</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>593</xmin>
-			<ymin>191</ymin>
-			<xmax>658</xmax>
-			<ymax>299</ymax>
+			<xmin>41</xmin>
+			<ymin>273</ymin>
+			<xmax>246</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>1</name>
+		<name>child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>756</xmin>
-			<ymin>593</ymin>
-			<xmax>891</xmax>
-			<ymax>664</ymax>
+			<xmin>2</xmin>
+			<ymin>79</ymin>
+			<xmax>114</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adult</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>10</ymin>
+			<xmax>228</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adult</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>108</xmax>
+			<ymax>176</ymax>
 		</bndbox>
 	</object>
 </annotation>

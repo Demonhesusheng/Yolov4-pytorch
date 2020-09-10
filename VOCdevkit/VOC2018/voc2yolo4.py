@@ -4,8 +4,8 @@ import random
 xmlfilepath = r'Annotations'
 saveBasePath = r"ImageSets/Main/"
  
-trainval_percent = 1
-train_percent = 1
+trainval_percent = 0.5
+train_percent = 0.5
 
 temp_xml = os.listdir(xmlfilepath)
 total_xml = []
