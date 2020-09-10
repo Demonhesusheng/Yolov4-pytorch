@@ -8,7 +8,7 @@ from PIL import Image
 from torch.autograd import Variable
 from torch.utils.data import DataLoader
 from torch.utils.data.dataset import Dataset
-from utils.utils import bbox_iou, merge_bboxes
+from utils2.utils import bbox_iou, merge_bboxes
 from matplotlib.colors import rgb_to_hsv, hsv_to_rgb
 from nets.yolo_training import Generator
 import cv2
